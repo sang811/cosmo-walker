@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CosmoWalkerApplication {
 
 	public static void main(String[] args) {
+		System.out.println("sth");
 		SpringApplication.run(CosmoWalkerApplication.class, args);
 	}
 
